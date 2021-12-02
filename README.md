@@ -5,7 +5,7 @@ My final project for this program
 
 # Azure ML designer
   * Training-pipeline
-  https://github.com/DevinWilliam18/Capstone-project-Kampus-Merdeka/blob/main/Train.png
+  ![alt text](https://github.com/DevinWilliam18/Capstone-project-Kampus-Merdeka/blob/main/Train.png)
   * Inference-pipeline
-  https://github.com/DevinWilliam18/Capstone-project-Kampus-Merdeka/blob/main/Inference-pipeline.png
+  ![alt text](https://github.com/DevinWilliam18/Capstone-project-Kampus-Merdeka/blob/main/Inference-pipeline.png)
 
